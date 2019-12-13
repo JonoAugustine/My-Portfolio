@@ -79,14 +79,15 @@ span{
         color: #fff;
     }
     #intro{
-        font-size: 40px;
+        font-size: 25px;
+        left:10%;
     }
     body { 
         background: #FA9A85;
     } 
     span{
         color: #2A4B7C;
-        font-size: 40px;
+        font-size: 25px;
     }
 }
 
