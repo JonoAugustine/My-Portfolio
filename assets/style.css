@@ -1,13 +1,15 @@
 /* about page */
 body{
-    background-image: url('/images/background.jpg');
+    background-image: url('background.jpg');
+    width:100%; height:100%;
 }
 
 p {
-    color: #2A4B7C;
-    font-size:16px; 
-    font-family: 'Lato', sans-serif;
+    color: #fff;
+    font-size: 24px; 
+    font-family: 'Raleway', sans-serif;
     word-wrap: break-word;
+
 }
 
 .small-about {
@@ -50,7 +52,7 @@ p {
 .navbar {
     background-image: none;
     font-family: 'Lato', sans-serif;
-    text-shadow: 2px 2px #fff;
+    /* text-shadow: 2px 2px #fff; */
 }
 
 .nav-link {
@@ -83,8 +85,8 @@ p {
 }
 
 .centered { 
-    color: #2A4B7C;
-    font-size: 100px;
+    color: #fff;
+    font-size: 80px;
     font-family: 'Raleway', sans-serif;
     /* position: fixed; */
     top: 50%; 
@@ -95,10 +97,6 @@ p {
 } 
 
 /* portfolio page */
-
-.portfolio{
-    background-image: url('/images/background-portfolio.jpg');
-}
 
 h1,h2{
     color: #FA9A85;
@@ -141,7 +139,7 @@ a{
 
   /* contact page */
 .contact{
-    background-image: url('/images/background-contact.jpg');
+    background-image: url('background-portfolio.jpg');
 }
 
 .row {
@@ -175,3 +173,4 @@ a{
 .btn:hover {
     background-color: #2A4B7C;
   }
+
