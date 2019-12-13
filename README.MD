@@ -31,8 +31,21 @@ Contact:
 Page includes a navigation bar with three links to each page, a contact form with input fields, and submit button to send form to email address.
 
 
-License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+Site:
+- [Portfolio](https://jeng1.github.io/My-Portfolio/)
+
+
+## License
+
+This project is shared under the MIT License.
+
+Copyright (c) 2019 Jennifer Genes, Michael Artes, Jonathan Augustine
+
+## License
+
+This project is shared under the MIT License.
+
+Copyright (c) 2019 Jennifer Genes, Michael Artes, Jonathan Augustine
 
 Acknowledgments
 Bootcamp Team
