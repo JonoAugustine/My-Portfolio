@@ -161,6 +161,10 @@ a{
 
 .contact{
     margin-top: 10.5rem!important;
+    color: #FA9A85;
+    font-size: 60px;
+    /* text-shadow: 2px 2px #D3D3D3; */
+    font-family: 'Raleway', sans-serif;
 }
 .btn{
     font-size:16px; 
