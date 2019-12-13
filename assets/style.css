@@ -13,6 +13,10 @@ p {
 
 }
 
+span{
+    color:#FA9A85;
+}
+
 .small-about {
     font-size:10px;
 }
@@ -74,9 +78,17 @@ p {
     .info{
         color: #fff;
     }
+    #intro{
+        font-size: 20px;
+    }
     body { 
         background: #FA9A85;
     } 
+    span{
+        color: #2A4B7C;
+        font-size: 20px;
+    }
+}
 
 
 .center-portfolio-links{
@@ -87,7 +99,6 @@ p {
     height: 30%;
     margin-top: 75%;
     background-image: none;
-    }
 }
 
 .centered { 
