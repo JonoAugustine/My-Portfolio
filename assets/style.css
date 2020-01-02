@@ -182,7 +182,7 @@ h1,h2{
     background-image: none;
 }
 
-a, li{
+a, i{
     color: #D3D3D3;
     font-size: 24px;
     font-family: 'Lato', sans-serif;
@@ -200,7 +200,7 @@ a, li{
     background-image: url('background-portfolio.jpg');
 } */
 
-.contact-info, i{
+.contact-info{
     color: #D3D3D3;
     font-size: 24px;
     font-family: 'Raleway', sans-serif;
