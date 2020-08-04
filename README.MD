@@ -1,4 +1,7 @@
-Portfolio
+# Portfolio
+
+[Live Site Here](https://jeng1.github.io/My-Portfolio/)
+
 The site contains three different pages: 1. About Me 2. Portfolio 3. Contact
 It showcases basic html and css learned in the first week of bootcamp as well as responsive iamges and layouts.
 
@@ -30,22 +33,8 @@ Page includes a navigation bar with three links to each page, screenshot of proj
 Contact:
 Page includes a navigation bar with three links to each page, a contact form with input fields, and submit button to send form to email address.
 
-
-Site:
-- [Portfolio](https://jeng1.github.io/My-Portfolio/)
-
-
 ## License
 
 This project is shared under the MIT License.
 
 Copyright (c) 2019 Jennifer Genes, Michael Artes, Jonathan Augustine
-
-## License
-
-This project is shared under the MIT License.
-
-Copyright (c) 2019 Jennifer Genes, Michael Artes, Jonathan Augustine
-
-Acknowledgments
-Bootcamp Team
